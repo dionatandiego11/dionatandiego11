@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @dionatandiego11
+- 👩‍💻 PYTHON, JAVA, NODE.JS, GIT, SQL :)
+- 💡Studying Java Back-End Specialist at Ebac
 - 👀 I’m interested in Futebo, Moutain Bike, ocultism, litetrature, tecnology and AI.
 - 🌱 I’m currently learning Python and Data analysis.
 - 💞️ I’m looking to collaborate on exciting projects.
