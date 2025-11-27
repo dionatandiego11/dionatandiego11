@@ -1,6 +1,6 @@
 ## 👋 Sobre Mim
 
-Sou graduando em Engenharia da Computação (8º período – Newton Paiva), com foco em **desenvolvimento Back-End Java** e **Inteligência Artificial**. Apaixonado por tecnologia, sistemas e análise de dados, busco constantemente aplicar soluções inovadoras para resolver desafios complexos.
+Sou um pesquisador independente, com foco em **desenvolvimento** e **Inteligência Artificial**. Apaixonado por tecnologia, sistemas e análise de dados, busco constantemente encontrar soluções para resolver desafios complexos.
 
 Atualmente, atuo no desenvolvimento de projetos que integram **Machine Learning** e **redes neurais**, explorando técnicas avançadas de IA. Também conclui a formação completa em **Desenvolvimento Back-End Java** pela EBAC.
 
